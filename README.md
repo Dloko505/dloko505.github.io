@@ -1,21 +1,16 @@
 ### Welcome 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have spent the last few weeks learning to code at **Deep Dive Coding**. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Some of the technologies I am currently learning and working with.
 
-- Bulleted
-- List
+- **Java**
+- **Android**
+- **Salesforce**
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
