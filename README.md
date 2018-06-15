@@ -12,7 +12,7 @@ Some of the technologies I am currently learning and working with.
 
 
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](dloko505.github.io/images/Java4_.jpg)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
