@@ -1,19 +1,19 @@
 ### Welcome 
 
-I have spent the last few weeks learning to code at **Deep Dive Coding**. 
+Coding is a passion I've had for quite some time but was afraid to take the risk, afraid I wasn't good enough. Now, I have spent the last few weeks learning to code at **Deep Dive Coding**, and I can't believe I have not taken the plundge into the depths sooner! While I haven't built anything completely spectacular at this point I'm having a blast destroying programs. However, I plan on focusing right now on learning the absolute basics and building a solid foundation on which I can really start to develope and create things I can love and or hate. 
 
 
 ```markdown
 Some of the technologies I am currently learning and working with.
 
-- **Java**
-- **Android**
-- **Salesforce**
+- Java
+- Android
+- Salesforce
 
 
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
