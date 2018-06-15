@@ -15,7 +15,7 @@ Some of the technologies I am currently learning and working with.
 
 
   
-[Link](url) and ![Image](dloko505.github.io/blob/master/images/Java4_.jpg)
+[Link](url) 
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
