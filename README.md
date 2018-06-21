@@ -1,4 +1,4 @@
-![Image](https://github.com/Dloko505/dloko505.github.io/blob/master/images/Java4_.png)
+![HeadShot](https://github.com/Dloko505/dloko505.github.io/blob/master/images/Java4_.png)
 
 #### Welcome 
 
