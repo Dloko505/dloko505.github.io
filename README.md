@@ -1,4 +1,4 @@
-![HeadShot](https://github.com/Dloko505/dloko505.github.io/blob/master/images/Java4_.png)
+![HeadShot](images/Java4_.png)
 
   
 <h1 align="center"> Welcome </h1>
