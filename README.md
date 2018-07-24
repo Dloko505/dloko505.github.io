@@ -33,5 +33,5 @@ Somethings I do while not in school coding.
 
 
 
-Here is a link to my [GitHub](https://github.com/Dloko505) where I save my class projects and other things I'm working on.
+Here is a link to my [GitHub](https://github.com/adulgr) where I save my class projects and other things I'm working on.
 
