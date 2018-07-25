@@ -32,6 +32,6 @@ Somethings I do while not in school coding.
 ```
 
 
-
+Here is a link to me [resume](adulgr.github.io/resume/resume18.pdf) if you would like to take a look.
 Here is a link to my [GitHub](https://github.com/adulgr) where I save my class projects and other things I'm working on.
 
