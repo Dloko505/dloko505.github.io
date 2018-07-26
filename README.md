@@ -1,6 +1,6 @@
-![HeadShot](images/Java4_.png)
-
-  
+<h3 align="center">
+  <img src="images/Java4_.png">
+</h3> 
 <h1 align="center"> Welcome </h1>
 
 <p align="center">Previous to my endeavours as a software developer I was working in the automotive field where I do hold a degree and some certificates.
@@ -32,5 +32,5 @@ Somethings I do while not in school coding.
 ```
 
 
-Here is a link to my [GitHub](https://github.com/adulgr) where I save my class projects and other things I'm working on.
+<p align="center">Here is a link to my [GitHub](https://github.com/adulgr) where I save my class projects and other things I'm working on. </p>
 
