@@ -32,5 +32,5 @@ Somethings I do while not in school coding.
 ```
 
 
-<p align="center">Here is a link to my [GitHub](https://github.com/adulgr) where I save my class projects and other things I'm working on. </p>
+Here is a link to my [GitHub](https://github.com/adulgr) where I save my class projects and other things I'm working on. 
 
