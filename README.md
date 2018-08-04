@@ -1,6 +1,11 @@
 <h3 align="center">
   <img src="images/Java4_.png">
 </h3> 
+
+If you would like to view my work experiences and educational acheivements check out my [resume](resume18.pdf "Open my resume!")!
+
+If you would like to contact me you can email me at [ahoward1@adulgr.com](mailto:ahoward1@adulgr.com "Send me an email!").
+
 <h1 align="center"> Welcome </h1>
 
 <p align="center">Previous to my endeavours as a software developer I was working in the automotive field where I do hold a degree and some certificates.
@@ -32,5 +37,5 @@ Somethings I do while not in school coding.
 ```
 
 
-Here is a link to my [GitHub](https://github.com/adulgr) where I save my class projects and other things I'm working on. 
+Here is a link to my [GitHub](https://github.com/adulgr "Check out my GitHub repositories!") where I save my class projects and other things I'm working on. 
 
